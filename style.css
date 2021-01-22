@@ -2,6 +2,15 @@ div * {
   background-color: darkblue; 
 }
 
+.blocks {
+  background-color: lightgray;
+  width = 60vw;
+  height = 20vw;
+  border = 15px solid darkblue;
+  padding = 50px;
+  margin = 20px;
+}
+
 #made-via {
   border-style: dotted;
   border-color: rgba(50, 100, 150, 1);
