@@ -2,13 +2,32 @@ div * {
   background-color: hsl(210, 100%, 50%); 
 }
 
+.headerfooter {
+  color = #FFFFFF;
+}
+
 .blocks {
   background-color: hsla(210, 100%, 50%, 1);
   width = 60vw;
   height = 20vw;
-  border = 15px solid darkblue;
+  border = 15px solid white;
   padding = 50px;
   margin = 20px;
+}
+
+#itscharlibaby {
+  background-color: pink;
+  width = 10in;
+  height = 20cm;
+  border = 15% solid white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 #made-via {
