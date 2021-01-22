@@ -1,9 +1,9 @@
 div * {
-  background-color: darkblue; 
+  background-color: hsl(210, 100%, 50%); 
 }
 
 .blocks {
-  background-color: lightgray;
+  background-color: hsla(210, 100%, 50%, 1);
   width = 60vw;
   height = 20vw;
   border = 15px solid darkblue;
