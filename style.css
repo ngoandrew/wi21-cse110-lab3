@@ -1,3 +1,4 @@
 p {
-  color: red;
+  text-align: center;
+  text-color: rgb(50, 100, 150); /* Set paragraph alignment and color */
 }
