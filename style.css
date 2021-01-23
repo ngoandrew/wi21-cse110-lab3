@@ -117,4 +117,5 @@ section + h2 {
 
 p ~ ul {
   background: #ffffff;
+  color: black;
 }
