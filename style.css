@@ -30,8 +30,6 @@
 
 #itscharlibaby {
   background-color: pink;
-  width: 8in;
-  height: 10cm;
   border: 15% solid white;
   padding-top: 50px;
   padding-right: 30px;
@@ -52,6 +50,7 @@
 }
 
 h1 {
+  font-size: 1in;
   text-align: center;
   text-decoration: underline;
   color: rgb(50, 100, 150); /* Set paragraph alignment and color */
@@ -59,6 +58,7 @@ h1 {
 
 p {
   font-family: patrick;
+  font-size: 0.3cm;
 }
 
 a:hover {
