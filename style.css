@@ -59,6 +59,9 @@ aside {
 
 #profile-pic {
   height: 10vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -72,7 +75,7 @@ p {
   font-size: 0.6cm;
 }
 
-h1, p {
+h1, h2, h3, p, label {
   font-family: patrick;
 }
 
