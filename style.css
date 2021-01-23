@@ -55,8 +55,11 @@ h1 {
 }
 
 p {
-  font-family: patrick;
   font-size: 0.3cm;
+}
+
+h1, p {
+  font-family: patrick;
 }
 
 a:hover {
