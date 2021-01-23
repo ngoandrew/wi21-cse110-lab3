@@ -3,6 +3,10 @@
   src: url(PatrickHand-Regular.ttf);
 }
 
+aside {
+  float: right;
+}
+
 *#itscharlibaby {
   background-color: hsl(330, 100%, 71%); 
 }
