@@ -3,23 +3,23 @@
 }
 
 .headerfooter {
-  color = #FFFFFF;
+  color: #FFFFFF;
 }
 
 .blocks {
   background-color: hsla(210, 100%, 50%, 1);
-  width = 60vw;
-  height = 20vw;
-  border = 15px solid white;
-  padding = 50px;
-  margin = 20px;
+  width: 60vw;
+  height: 20vw;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
 }
 
 #itscharlibaby {
   background-color: pink;
-  width = 10in;
-  height = 20cm;
-  border = 15% solid white;
+  width: 10in;
+  height: 20cm;
+  border: 15% solid white;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
