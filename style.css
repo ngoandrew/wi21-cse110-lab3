@@ -103,3 +103,19 @@ header {
 div {
   position: static; 
 }
+
+div p {
+  color: white;
+}
+
+ul > li {
+  color: white;
+}
+
+section + h2 {
+  color: white;  
+}
+
+p ~ ul {
+  background: #ff0000;
+}
