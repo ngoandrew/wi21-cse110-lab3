@@ -11,15 +11,12 @@
   display: block;
 }
 
-#lyrics{ 
-  display: none;
-}
-
 .headerfooter {
   color: #FFFFFF;
 }
 
 .blocks {
+  display: inline-block;
   background-color: hsla(210, 100%, 50%, 1);
   width: 80vw;
   height: 100vh;
@@ -29,6 +26,7 @@
 }
 
 #itscharlibaby {
+  display: inline-block;
   background-color: pink;
   border: 15% solid white;
   padding-top: 50px;
