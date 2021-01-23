@@ -29,7 +29,7 @@ aside {
   display: inline-block;
   background-color: hsla(210, 100%, 50%, 1);
   width: 80vw;
-  /* height: 100vh; */
+  height: auto;
   border: 15px solid white;
   padding: 10px;
   margin: 20px;
