@@ -3,6 +3,12 @@
   src: url(PatrickHand-Regular.ttf);
 }
 
+@media only screen and (max-width: 10px) {
+  body {
+    background-color: aquamarine;
+  }
+}
+
 aside {
   float: right;
 }
