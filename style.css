@@ -31,6 +31,7 @@
 }
 
 #made-via {
+  text-align: center;
   border-style: dotted;
   border-color: rgba(50, 100, 150, 1);
   border-width: medium;
@@ -41,4 +42,12 @@ h1 {
   text-align: center;
   text-decoration: underline;
   color: rgb(50, 100, 150); /* Set paragraph alignment and color */
+}
+
+a:hover {
+  color: pink;
+}
+
+a:active {
+  color: blue;
 }
