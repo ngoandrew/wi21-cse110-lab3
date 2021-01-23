@@ -17,10 +17,6 @@ aside {
   background-color: hsl(330, 100%, 71%); 
 }
 
-#selfdescription{ 
-  display: block;
-}
-
 .headerfooter {
   color: #FFFFFF;
 }
@@ -61,6 +57,16 @@ aside {
   margin-left: auto;
   margin-right: auto;
   height: 5vh;
+}
+
+#selfdescription{ 
+  display: block;
+}
+
+#flexbox {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 h1 {
